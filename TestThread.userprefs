@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Droid/TestThread.Droid.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 10 (KitKat)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Main.cs">
+    <Files>
+      <File FileName="TestThread/TestThread.cs" Line="53" Column="66" />
+      <File FileName="packages/Xam.Plugin.Geolocator.3.0.3/readme.txt" Line="1" Column="1" />
+      <File FileName="iOS/Main.cs" Line="14" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/alessandrocaliaro/Projects/Test/TestThread/TestThread/TestThread.cs" line="157" column="1" />
+      <Breakpoint file="/Users/alessandrocaliaro/Projects/Test/TestThread/TestThread/TestThread.cs" line="151" column="1" />
+      <Breakpoint file="/Users/alessandrocaliaro/Projects/Test/TestThread/TestThread/TestThread.cs" line="207" column="1" />
+      <Breakpoint file="/Users/alessandrocaliaro/Projects/Test/TestThread/TestThread/TestThread.cs" line="135" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
